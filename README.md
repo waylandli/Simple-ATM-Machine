@@ -1,4 +1,7 @@
 # Simple-ATM-Machine
+
+Clone this Repo
+
 Run `gcc -o controller controller.c` and follow the prompts.
 Made simple atm machine by implementing card swipes and pin number checks.
 
